@@ -91,7 +91,7 @@ int main()
                 if(again == 'n' || again == 'N')
                 {
                     cout << endl;
-                    cout << "Implemented by Blake Burns and Max Rios" << endl;
+                    cout << "Implemented by Blake Burns" << endl;
                     cout << "2.6.2019" << endl;
                     return 0;
                 }
@@ -151,7 +151,7 @@ int main()
 
 
     cout << endl << endl;
-    cout << "Implemented by Blake Burns and Max Rios" << endl;
+    cout << "Implemented by Blake Burns" << endl;
     cout << "2.6.2019" << endl;
     return 0;
 
