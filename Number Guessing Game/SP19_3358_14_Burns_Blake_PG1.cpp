@@ -1,5 +1,5 @@
 /*
-Authors: Blake Burns and Max Rios
+Authors: Blake Burns
 Serial Number:
 Due Date: 2.6.2019
 Programming Assignment Number: 1
