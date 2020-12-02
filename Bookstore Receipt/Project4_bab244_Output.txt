@@ -1,0 +1,174 @@
+			The University Book Store, San Marcos, Texas 78666
+				RECEIPT #95, Sept. 17, 2017, 9:00 PM
+
+Customer Name: John M. Powell
+Customer Address: 526 Pine Street, San Marcos, TX, 78666
+Customer Age: 45
+Number of Books Customer is buying: 3
+
+Book Number: AB5326
+Book Title: Sports: Football
+Book Author: Allan Blake
+Aisle Number: 12
+Book Price: $95.82
+Book Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out with C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Book Price: $82.78
+Book Discount: $0
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Book Price: $102.72
+Book Discount: $5.14
+
+Sub Total of Three Books: $281.32
+Total Discount: $9.93
+Subtotal after Discount: $271.39
+
+Sales Tax Amount: $21.71
+
+Total Amount Paid: $293.10
+
+Customer Name: Steve L. Jones
+Customer Address: 526 North Street, San Marcos, TX, 78666
+Customer Age: 45
+Number of Books Customer is buying: 3
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Book Price: $95.82
+Book Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out with C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Book Price: $82.78
+Book Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Book Price: $102.72
+Book Discount: $5.14
+
+Sub Total of Three Books: $281.32
+Total Discount: $9.93
+Subtotal after Discount: $271.39
+
+Sales Tax Amount: $21.71
+
+Total Amount Paid: $293.10
+
+Customer Name: Jack A. Allen
+Customer Address: 526 Pine Street, San Marcos, TX, 78666
+Customer Age: 45
+Number of Books Customer is buying: 3
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Book Price: $95.82
+Book Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out with C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Book Price: $82.78
+Book Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Book Price: $102.72
+Book Discount: $5.14
+
+Sub Total of Three Books: $281.32
+Total Discount: $9.93
+Subtotal after Discount: $271.39
+
+Sales Tax Amount: $21.71
+
+Total Amount Paid: $293.10
+
+Customer Name: Jamal K. Charles
+Customer Address: 526 Jones Ln, San Marcos, TX, 78666
+Customer Age: 45
+Number of Books Customer is buying: 3
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Book Price: $95.82
+Book Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out with C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Book Price: $82.78
+Book Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Book Price: $102.72
+Book Discount: $5.14
+
+Sub Total of Three Books: $281.32
+Total Discount: $9.93
+Subtotal after Discount: $271.39
+
+Sales Tax Amount: $21.71
+
+Total Amount Paid: $293.10
+
+Customer Name: Tom R. Brady
+Customer Address: 526 Jones Rd, San Marcos, TX, 78666
+Customer Age: 45
+Number of Books Customer is buying: 3
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Book Price: $95.82
+Book Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out with C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Book Price: $82.78
+Book Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Book Price: $102.72
+Book Discount: $5.14
+
+Sub Total of Three Books: $281.32
+Total Discount: $9.93
+Subtotal after Discount: $271.39
+
+Sales Tax Amount: $21.71
+
+Total Amount Paid: $293.10
+
+			Thank you for shopping at the University Book Store

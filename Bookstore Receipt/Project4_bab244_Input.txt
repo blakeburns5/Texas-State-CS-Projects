@@ -1,0 +1,135 @@
+John M. Powell
+526 Pine Street, San Marcos, TX, 78666
+45
+3
+AB5326
+Sports: Football
+Allan Blake
+12
+95.82
+4.79
+CF9654
+Starting Out with C++
+Tony Gaddis
+15
+82.78
+0.0
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+5.14
+281.32
+9.93
+271.39
+21.71
+293.10
+Steve L. Jones
+526 North Street, San Marcos, TX, 78666
+45
+3
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+4.79
+CF9654
+Starting Out with C++
+Tony Gaddis
+15
+82.78
+0.0
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+5.14
+281.32
+9.93
+271.39
+21.71
+293.10
+Jack A. Allen
+526 Pine Street, San Marcos, TX, 78666
+45
+3
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+4.79
+CF9654
+Starting Out with C++
+Tony Gaddis
+15
+82.78
+0.0
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+5.14
+281.32
+9.93
+271.39
+21.71
+293.10
+Jamal K. Charles
+526 Jones Ln, San Marcos, TX, 78666
+45
+3
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+4.79
+CF9654
+Starting Out with C++
+Tony Gaddis
+15
+82.78
+0.0
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+5.14
+281.32
+9.93
+271.39
+21.71
+293.10
+Tom R. Brady
+526 Jones Rd, San Marcos, TX, 78666
+45
+3
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+4.79
+CF9654
+Starting Out with C++
+Tony Gaddis
+15
+82.78
+0.0
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+5.14
+281.32
+9.93
+271.39
+21.71
+293.10
