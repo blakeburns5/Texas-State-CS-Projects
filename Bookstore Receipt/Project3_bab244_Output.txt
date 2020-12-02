@@ -1,0 +1,204 @@
+                       The University Book Store, San Marcos, Texas 78666
+                                RECEIPT #95, Sept. 17, 2017, 9:00 PM
+
+Customer Name: John M. Powell
+Customer Telephone Number: (512) 299-6732
+Customer Address: 526 Pine Street, San Marcos, TX, 78666
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Price of Book: $95.82
+Price Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out With C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Price of Book: $82.78
+Price Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Price of Book: $102.72
+Price Discount: $5.14
+
+Book Number: GL4032
+Book Title: Finding Dorrey
+Book Author: Steve Johnson
+Aisle Number: 35
+Price of Book: $104.32
+Price Discount: $5.22
+
+Sub Total of Four Books: $385.64
+Total Discount: $15.14
+Subtotal after Discount: $370.50
+
+Sales Tax Amount: $29.64
+
+Total Amount Paid: $400.14
+------------------------------------------------------------------------------------
+Customer Name: Sheldon L. Patterson
+Customer Telephone Number: (512) 632-1358
+Customer Address: 1320 South Street, San Marcos, TX, 78666
+
+Book Number: LT6724
+Book Title: CARS
+Book Author: John Stevenson
+Aisle Number: 13
+Price of Book: $84.26
+Price Discount: $0.00
+
+Book Number: RF2638
+Book Title: The Bible
+Book Author: Jesus Christ
+Aisle Number: 1
+Price of Book: $100.00
+Price Discount: $5.00
+
+Book Number: DR1872
+Book Title: Where the Red Fern Grows
+Book Author: Steve Brownlow
+Aisle Number: 38
+Price of Book: $26.72
+Price Discount: $0.00
+
+Book Number: BG1425
+Book Title: Clifford The Big Red Dog
+Book Author: Landon Jackson
+Aisle Number: 28
+Price of Book: $35.49
+Price Discount: $0.00
+
+Sub Total of Four Books: $246.47
+Total Discount: $5.00
+Subtotal after Discount: $241.47
+
+Sales Tax Amount: $19.32
+
+Total Amount Paid: $260.79
+------------------------------------------------------------------------------------
+Customer Name: John M. Powell
+Customer Telephone Number: (512) 299-6732
+Customer Address: 526 Pine Street, San Marcos, TX, 78666
+
+Book Number: AB5326
+Book Title: War and Peace
+Book Author: Leo Tolstoy
+Aisle Number: 12
+Price of Book: $95.82
+Price Discount: $4.79
+
+Book Number: CF9654
+Book Title: Starting Out With C++
+Book Author: Tony Gaddis
+Aisle Number: 15
+Price of Book: $82.78
+Price Discount: $0.00
+
+Book Number: GM4378
+Book Title: Artificial Intelligence
+Book Author: Stuart Russell
+Aisle Number: 21
+Price of Book: $102.72
+Price Discount: $5.14
+
+Book Number: GL4032
+Book Title: Finding Dorrey
+Book Author: Steve Johnson
+Aisle Number: 35
+Price of Book: $104.32
+Price Discount: $5.22
+
+Sub Total of Four Books: $385.64
+Total Discount: $15.14
+Subtotal after Discount: $370.50
+
+Sales Tax Amount: $29.64
+
+Total Amount Paid: $400.14
+------------------------------------------------------------------------------------
+Customer Name: Jamal K. Charles
+Customer Telephone Number: (512) 221-1358
+Customer Address: 1320 East Street, San Marcos, TX, 78666
+
+Book Number: LT6724
+Book Title: CARS
+Book Author: John Stevenson
+Aisle Number: 13
+Price of Book: $84.26
+Price Discount: $0.00
+
+Book Number: RF2638
+Book Title: The King
+Book Author: Charles Jones
+Aisle Number: 1
+Price of Book: $100.00
+Price Discount: $5.00
+
+Book Number: DR1872
+Book Title: Where the Red Fern Grows
+Book Author: Steve Brownlow
+Aisle Number: 38
+Price of Book: $26.72
+Price Discount: $0.00
+
+Book Number: BG1425
+Book Title: Clifford The Big Red Dog
+Book Author: Landon Jackson
+Aisle Number: 28
+Price of Book: $35.49
+Price Discount: $0.00
+
+Sub Total of Four Books: $246.47
+Total Discount: $5.00
+Subtotal after Discount: $241.47
+
+Sales Tax Amount: $19.32
+
+Total Amount Paid: $260.79
+------------------------------------------------------------------------------------
+Customer Name: Jake A. Smith
+Customer Telephone Number: (512) 632-1355
+Customer Address: 1322 West Street, San Marcos, TX, 78666
+
+Book Number: LP6722
+Book Title: CARS
+Book Author: Karl Jones
+Aisle Number: 17
+Price of Book: $107.27
+Price Discount: $5.36
+
+Book Number: GL5968
+Book Title: C++ For Dummies
+Book Author: Tom Brady
+Aisle Number: 2
+Price of Book: $99.98
+Price Discount: $5.00
+
+Book Number: DL1872
+Book Title: James And The Giant Peach
+Book Author: Steve Smith
+Aisle Number: 38
+Price of Book: $26.72
+Price Discount: $0.00
+
+Book Number: BG1425
+Book Title: Pimpin' Ain't Eazy
+Book Author: Eazy E
+Aisle Number: 88
+Price of Book: $109.99
+Price Discount: $5.50
+
+Sub Total of Four Books: $343.96
+Total Discount: $15.86
+Subtotal after Discount: $328.10
+
+Sales Tax Amount: $26.25
+
+Total Amount Paid: $354.35
+------------------------------------------------------------------------------------
+                      Thank you for shopping at The University Book Store

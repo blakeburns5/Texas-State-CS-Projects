@@ -1,0 +1,118 @@
+The University Book Store, San Marcos, Texas 78666
+RECEIPT #95, Sept. 17, 2017, 9:00 PM
+John M. Powell
+(512) 299-6732
+526 Pine Street, San Marcos, TX, 78666
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+CF9654
+Starting Out With C++
+Tony Gaddis
+15
+82.78
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+GL4032
+Finding Dorrey
+Steve Johnson
+35
+104.32
+Sheldon L. Patterson
+(512) 632-1358
+1320 South Street, San Marcos, TX, 78666
+LT6724
+CARS
+John Stevenson
+13
+84.26
+RF2638
+The Bible
+Jesus Christ
+1
+100.00
+DR1872
+Where the Red Fern Grows
+Steve Brownlow
+38
+26.72
+BG1425
+Clifford The Big Red Dog
+Landon Jackson
+28
+35.49
+John M. Powell
+(512) 299-6732
+526 Pine Street, San Marcos, TX, 78666
+AB5326
+War and Peace
+Leo Tolstoy
+12
+95.82
+CF9654
+Starting Out With C++
+Tony Gaddis
+15
+82.78
+GM4378
+Artificial Intelligence
+Stuart Russell
+21
+102.72
+GL4032
+Finding Dorrey
+Steve Johnson
+35
+104.32
+Jamal K. Charles
+(512) 221-1358
+1320 East Street, San Marcos, TX, 78666
+LT6724
+CARS
+John Stevenson
+13
+84.26
+RF2638
+The King
+Charles Jones
+1
+100.00
+DR1872
+Where the Red Fern Grows
+Steve Brownlow
+38
+26.72
+BG1425
+Clifford The Big Red Dog
+Landon Jackson
+28
+35.49
+Jake A. Smith
+(512) 632-1355
+1322 West Street, San Marcos, TX, 78666
+LP6722
+CARS
+Karl Jones
+17
+107.27
+GL5968
+C++ For Dummies
+Tom Brady
+2
+99.98
+DL1872
+James And The Giant Peach
+Steve Smith
+38
+26.72
+BG1425
+Pimpin' Ain't Eazy
+Eazy E
+88
+109.99
+Thank you for shopping at The University Book Store
