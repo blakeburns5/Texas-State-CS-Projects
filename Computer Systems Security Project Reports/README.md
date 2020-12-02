@@ -1,2 +1,0 @@
-# Computer Systems Security Project Reports
-These pdf files are a collection of reports that I wrote up for our group projects in our computer systems security course. Throughout the course, we used network and security devices and tools to set up and configure networking systems, implement security policy as well as analyse and verify the security of the systems that we setup. We used a variety of different tools such as Wireshark, Nmap, VirtualBox, Aircrack, Metasploit, and the Cisco Configuration Professional Tool to complete these tasks.
